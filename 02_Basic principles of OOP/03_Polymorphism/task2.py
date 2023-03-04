@@ -52,7 +52,3 @@ for i in geon:
 
 print(geon[1].come_down())
 print(geon[1].boom())
-
-
-
-
